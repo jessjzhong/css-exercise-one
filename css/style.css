@@ -15,7 +15,7 @@ section {
   width: 60%;
 }
 
-h1 {
+h1 { /* title*/
   font-family: sans-serif;
   font-size: 2em;
 }
@@ -36,6 +36,6 @@ h3 {
   width: 100%;
 }
 
-.element-color {
+.element-color { /*last three div */
   background-color: pink;
 }
