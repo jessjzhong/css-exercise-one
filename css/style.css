@@ -1,9 +1,9 @@
-body { /*this was not wrapped around with curly brace. affecting the code */
+body {
   font-size: 14px;
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -36,6 +36,6 @@ h3 {
   width: 100%;
 }
 
-.color {
-  background-color: teal;
+.element-color {
+  background-color: pink;
 }
